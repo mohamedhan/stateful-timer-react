@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+h1{
+  font-size: 100px;
+}
+.affich span {
+  margin :10px;
+  font-size: 30px;
+  padding: 20px;
+  color: gray;
+}
